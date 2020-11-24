@@ -1,0 +1,49 @@
+.container{
+    background:#e1f8b7;
+}
+
+.site-title{
+    font-size: 2.5rem;
+    margin: 1rem 0;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.search{
+    height: 100px;
+    width: 100px;
+
+}
+.header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: lightslategray
+}
+
+body{
+    background: antiquewhite;
+}
+
+.navbar{
+    background: #777777;
+    padding: 10px;
+    color: #581845;
+
+
+}
+
+.row{
+    height: 100vh;
+}
+
+.col-sm-4{
+    background: #ccc;
+}
+
+.other{
+    background: darkgray;
+}
+
+.color2{
+    display: inline;
+}
